@@ -34,3 +34,10 @@ to detect consistency and inconsistency between statements and actions at the go
 It can be used to predict election results as well!
 Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena,
 for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
+
+
+References:
+
+http://www.ijcaonline.org/research/volume125/number3/dandrea-2015-ijca-905866.pdf
+https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
+textblob.readthedocs.io/en/dev/_modules/textblob/en/sentiments.html
